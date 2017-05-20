@@ -57,6 +57,7 @@ GameManager.prototype.expectimax= function(grid,depth,agent){
 			if(newScore!==Number.MIN_VALUE)
 				score+=(0.9*newScore);
 		}
+		score=score/totalfreecells;
 		return score;
 	}
 }
