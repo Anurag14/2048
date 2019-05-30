@@ -26,4 +26,4 @@ You can find the same information in the [contributing guide.](https://github.co
 2048 is licensed under the [MIT license.](https://github.com/gabrielecirulli/2048/blob/master/LICENSE.txt)
 
 ## Copying this Code
-I made this in my spare time, and it's hosted on GitHub (which means I don't have any hosting costs), but if you enjoyed the game, wish to use this code for your projects, feel free to do so! Just start this repository as a kind gesture. Thank you very much!
+I made this in my spare time, and it's hosted on GitHub (which means I don't have any hosting costs), but if you enjoyed the game, wish to use this code for your projects, feel free to do so! Just star this repository as a kind gesture. Thank you very much!
